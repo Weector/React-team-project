@@ -2,7 +2,7 @@
   "name": "watermelon_slimmom",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Weector.github.io/React-team-project/",
+  "homepage": "https://Weector.github.io/react-team-project/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.12",
     "@chakra-ui/react": "^2.4.1",
